@@ -29,7 +29,7 @@ public void resetTimer() {
 }
 
 public void updateTimer(int secondsLeft) {
-	//please update
+	//please update and test
 	
 	int minutes = secondsLeft / 60;
 	int seconds = secondsLeft - minutes * 60;
